@@ -43,7 +43,7 @@ function Hero() {
         </p>
         <div className="flex flex-wrap gap-3">
           <a
-            href="assets/Nilakshi_Resume.pdf"
+            href="Nilakshi_Resume.pdf"
             className="bg-gray-900 dark:bg-white dark:text-gray-900 text-white px-5 py-3 rounded-full font-medium"
           >
             Download resume ↗
@@ -63,7 +63,7 @@ function Hero() {
         </div>
       </div>
       <img
-        src="assets/photo.jpg"
+        src="photo.jpg"
         alt="Nilakshi"
         className="w-40 h-40 sm:w-48 sm:h-48 rounded-full object-cover mx-auto"
       />
