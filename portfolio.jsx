@@ -122,7 +122,7 @@ function Experience() {
     {
       company: "Diaspark",
       title: "Associate Product Manager",
-      period: "Sep 2026 — Present",
+      period: "Sep 2025 — Present",
       location: "Indore",
       bullets: [
         "Assisted in driving the 0-to-1 AI product lifecycle for Luxare Repair, managing 5+ modules independently and contributing to a 20% improvement in client operational efficiency.",
